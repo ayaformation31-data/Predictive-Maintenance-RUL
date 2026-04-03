@@ -39,7 +39,7 @@ Predict the number of cycles remaining before engine failure using machine learn
 
 Predictions vs actual values show strong correlation.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
